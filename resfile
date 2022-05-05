@@ -1,0 +1,7 @@
+NATAA #all atoms can pack but cannot be mutated
+
+start
+
+2 - 19 A ALLAAxc #1st near 100 IDDT section; residues 2 - 19 on chain A can mutate to everything except cys
+#60 - 70 A ALLAAxc #2nd near 100 IDDT section
+#80 - 95 A ALLAAxc #3rd near 100 IDDT section
